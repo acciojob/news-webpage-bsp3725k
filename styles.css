@@ -2,6 +2,10 @@
 *{
 	background-color:#f5f5f5;
 }
+.md{
+	display:flex;
+	flex:wrap;
+}
 .header{
 	background-color:#011e29;
 	height:35px;
@@ -12,4 +16,42 @@
 	font-size:30px;
 	padding:10px;
 }
-
+.latest-news-section{
+	background-color:white;
+	color:black;
+	border-radius:20px;
+	width:150px;
+	height:100px;
+}
+.head{
+	font-size:15px;
+	font-weight:bolder;
+	text-align:center;
+	background-color:white;
+}
+.order{
+	background-color:white;
+}
+.list{
+	background-color:white;
+}
+.main{
+	background-color:white;
+	border-radius:20px;
+	padding:10px;
+	height:200px;
+	width:300px
+}
+.mains{
+	background-color:white;
+}
+.pictorial-news-section{
+	background-color:white;
+	width:200px;
+	height:400px;
+	padding:20px;
+	border-radius:20px;
+}
+.images{
+	width:200px;
+}
